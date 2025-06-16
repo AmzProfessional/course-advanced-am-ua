@@ -80,8 +80,6 @@
 
 ## 3. Інтерактивний чекліст
 
-Використовуйте цей чекліст у Obsidian для відстеження прогресу:
-
 - [ ]  Відкрили **Advertising** > **Coupons** і вибрали ASIN “Golden Bracelet”.
 - [ ]  Налаштували купон: 7%, 3 дні, бюджет $100, Stackout Promotion.
 - [ ]  Перевірили **Deals** на наявність Lightning Deal для ASIN.
