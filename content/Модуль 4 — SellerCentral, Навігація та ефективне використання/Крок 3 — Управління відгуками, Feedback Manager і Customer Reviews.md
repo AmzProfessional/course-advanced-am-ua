@@ -90,4 +90,4 @@
 
 **Наступний крок**: У Кроці 4 ми розглянемо моніторинг лістингів і цін через Manage Inventory та Pricing Health.
 
-### [[Крок 4 — Моніторинг листингів і цін, Management Inventory та Pricing Health]] →
+### [[Крок 4 — Аналіз повернень, Voice of the Customer, FBA Dashboard, Manager Return Orders]] →
