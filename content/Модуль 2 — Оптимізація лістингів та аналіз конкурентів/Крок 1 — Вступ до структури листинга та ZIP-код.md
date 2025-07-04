@@ -3,7 +3,9 @@
 **Мета**: Зрозуміти структуру листинга Amazon, навчитися налаштовувати американський ZIP-код для коректного відображення листинга та Buy Box, а також ознайомитися з вибором категорій товару.  
 
 > **Примітка**: Перегляньте відео, яке демонструє введення ZIP-коду та перевірку структури листинга в Amazon.  
-> _[Місце для відео: вставте посилання на відео або вбудований плеєр у вашому Obsidian Vault.]_
+
+
+<iframe width="100%" height="396" src="https://www.youtube.com/embed/D9AOCagi1vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
