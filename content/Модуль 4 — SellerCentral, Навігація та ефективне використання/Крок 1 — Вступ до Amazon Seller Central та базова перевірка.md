@@ -2,15 +2,17 @@
 
 **Мета**: Ознайомитися з Amazon Seller Central, зрозуміти його основні функції та провести базову перевірку даних для управління продажами.
 
-> [!info]  
-> Перегляньте відео, яке демонструє основи навігації в Seller Central.  
-> _[Місце для відео: вставте посилання на відео або вбудований плеєр у вашому Obsidian Vault.]_
+> [!note] Перегляньте відео, яке демонструє основи навігації в Seller Central.  
+
+<div style="position: relative; width: 100%; max-width: 800px; padding-bottom: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/uJZO2dRK8uQ?list=PLwKqMJF211WIrICPnlEGu81thrqpjJyy9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 
 ## 1. Що таке Amazon Seller Central?
 
-**Amazon Seller Central** — це основна платформа для продавців на Amazon, яка дозволяє:
+> [!note] **Amazon Seller Central** — це основна платформа для продавців на Amazon, яка дозволяє:
 
 - Управляти лістингами товарів (створення, редагування).
 - Моніторити продажі, відгуки, повернення.
@@ -37,9 +39,7 @@
 - **Growth**: Аналіз невикористаних можливостей для росту, аналіз ніш та конкурентів
 - **Reports**: Звіти по різних розділах магазину.
 - **Performance Notifications**: Повідомлення про проблеми з аккаунтом (наприклад, порушення політики).
-
 ### Навігація:
-
 - Виберіть маркетплейс (наприклад, США) у верхньому меню.
 - Використовуйте пошукову строку для швидкого доступу до ASIN або SKU.
 - Перевіряйте **Account Health** для оцінки стану аккаунта.
@@ -52,7 +52,6 @@
 [Базова перевірка акаунта](https://docs.google.com/spreadsheets/d/1Yh9LyXK1oNFTJ8er0T8CMCpeXKm0ojacisIhZPYGDPE/edit?usp=sharing)
 
 ---
-
 ## 4. Ключові поради
 
 - Завжди перевіряйте ASIN на коректність у Manage Inventory.
@@ -62,8 +61,7 @@
 
 > [!warning]  Некоректні дані в Seller Central можуть призвести до зупинки продажів або штрафів від Amazon.
 
----
-
+--- 
 ## 5. Рефлексія
 
 - **Перевірте себе**:

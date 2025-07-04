@@ -2,10 +2,20 @@
 
 **Мета**: Зрозуміти структуру листинга Amazon, навчитися налаштовувати американський ZIP-код для коректного відображення листинга та Buy Box, а також ознайомитися з вибором категорій товару.  
 
-> **Примітка**: Перегляньте відео, яке демонструє введення ZIP-коду та перевірку структури листинга в Amazon.  
+> [!Примітка до відео] **Примітка до відео** Перед початком занять цього модуля обов’язково перегляньте відео, у якому детально розбираються:
+> - Структура лістингу
+> - Створення А+ контенту
+> - Пошук та аналіз конкурентів
 
-
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/D9AOCagi1vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+    <iframe 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+        src="https://www.youtube.com/embed/D9AOCagi1vc" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
 
 ---
 
@@ -36,7 +46,7 @@
 
 ## 3. Інтерактивний чекліст для перевірки листинга
 
-Використовуйте цей чекліст у Obsidian для відстеження прогресу:
+Використовуйте цей чекліст для відстеження прогресу:
 
 - [ ]  Введено американський ZIP-код (наприклад, 10001).
 - [ ]  Перевірено відображення Buy Box на лістингу.
@@ -61,4 +71,4 @@
 
 **Наступний крок**: Розглянемо важливість фотографій і відео для лістингів.
 
-**[[Крок 2 — Фотографії та відео]] →**
+### [[Крок 2 — Фотографії та відео]] →
