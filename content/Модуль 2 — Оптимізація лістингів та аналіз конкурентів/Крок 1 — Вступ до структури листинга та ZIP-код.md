@@ -5,7 +5,7 @@
 > **Примітка**: Перегляньте відео, яке демонструє введення ZIP-коду та перевірку структури листинга в Amazon.  
 
 
-<iframe width="100%" height="396" src="https://www.youtube.com/embed/D9AOCagi1vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/D9AOCagi1vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
