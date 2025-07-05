@@ -2,7 +2,7 @@
 
 **Мета**: Навчитися налаштовувати Promotions і Brand Tailored Promotions у Seller Central для підвищення середнього чеку, трафіку та продажів.  
 
-> **Примітка**: [Перегляньте відео, яке демонструє налаштування Promotions і Social Media промокодів.](https://youtu.be/YkwKPsG5Mas?list=PLwKqMJF211WIrICPnlEGu81thrqpjJyy9&t=2920)
+> [!note] **Примітка**: [Перегляньте відео, яке демонструє налаштування Promotions і Social Media промокодів.](https://youtu.be/YkwKPsG5Mas?list=PLwKqMJF211WIrICPnlEGu81thrqpjJyy9&t=2920)
 
 ---
 ## 1. Promotions
