@@ -64,4 +64,4 @@
 - Чи конкретна ваша пропозиція для менеджера?
 
 **Наступний крок**: У Кроці 5 ми розглянемо Inventory Performance Index (IPI) та аналіз запасів.
-### [[Крок 5 — Inventory Performance Index (IPI) та аналіз запасів]] →
+### [[Крок 6 — Управління складом, Edge Inventory та Capacity Monitor]] →
