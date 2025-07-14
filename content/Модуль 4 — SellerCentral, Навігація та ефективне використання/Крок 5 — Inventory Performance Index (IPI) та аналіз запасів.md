@@ -5,6 +5,18 @@
 > [!note] **Примітка**: [Перегляньте відео, яке демонструє аналіз повернень у Seller Central.](https://youtu.be/uJZO2dRK8uQ?list=PLwKqMJF211WIrICPnlEGu81thrqpjJyy9&t=1447)
 
 ---
+
+## ВАЖЛИВА ІНФОРМАЦІЯ ПРО ВХІД У SELLER CENTRAL 🚨
+
+> [!warning] ВАЖЛИВО: Вхід у Seller Central 
+> Завжди заходьте в Seller Central **тільки і виключно через GoLogin**. Вам нададуть аккаунт для навчання, а згодом — аккаунти для роботи. Це правило діє **завжди**: працюйте виключно через GoLogin!
+
+> [!note] Додаткові рекомендації
+> - Переконайтеся, що ви використовуєте правильні облікові дані, надані для GoLogin.
+> - Не використовуйте особисті браузери чи VPN для доступу до Seller Central.
+
+![[Pasted image 20250714112901.png]]
+
 ## 1. Voice of the Customer: Аналіз причин повернень
 
 > [!note] **Voice of the Customer** — це розділ у Seller Central, який показує причини повернень за ASIN, отримані з коментарів клієнтів і Performance Notifications (з Кроку 2).
