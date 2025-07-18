@@ -1,6 +1,17 @@
 **Мета**: Навчитися використовувати Keepa для аналізу ключових показників листингів на Amazon, щоб оптимізувати товари, управляти запасами, аналізувати конкурентів і забезпечувати безпеку акаунтів.
 
 > [!note] **Примітка**: Перегляньте відео (0:01–28:53), яке пояснює, як використовувати Keepa для аналізу листингів, цін, стоку, Buy Box і пошуку нових товарів, а також як налаштувати безпечну роботу через GoLogin.
+> 
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+    <iframe 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+        src="" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
 
 ---
 ## 1. Значення аналізу листингів за допомогою Keepa
