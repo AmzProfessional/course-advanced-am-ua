@@ -31,7 +31,7 @@
 - Для розпродажу стоку (BOGO).
 - Для залучення трафіку через інфлюенсерів (Social Media промокоди).
 
-**Приклад**: Percentage Off 7% за покупку “Golden Bracelet” і “Silver Bracelet” (AquaFit Store) підвищив середній чек на 15% (з $20 до $23 за замовлення).
+**Приклад**: Percentage Off 7% за покупку “Golden Bracelet” і “Silver Bracelet” (AquaFit Store) підвищив середній чек на 15% (з 20 доларів до 23 за замовлення).
 
 ---
 ## 2. Brand Tailored Promotions
