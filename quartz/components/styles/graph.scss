@@ -1,7 +1,12 @@
 @use "../../styles/variables.scss" as *;
 
 .graph {
+  display: none !important;
+}
+
+.graph {
   & > h3 {
+    display: none !important;
     font-size: 1rem;
     margin: 0;
   }
@@ -39,6 +44,7 @@
   }
 
   & > .global-graph-outer {
+    
     position: fixed;
     z-index: 9999;
     left: 0;
