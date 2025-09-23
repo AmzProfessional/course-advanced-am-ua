@@ -46,7 +46,7 @@
 3. Натисніть **Offer Refund**, або через “Customer support” запропонуйте повернення коштів, replacement або інший варіант вирішення проблеми (затверджуйте зі старшим менеджером).
 4. Якщо відгук образливий, подайте запит на видалення через **Contact Seller Support**.
 
-![[customer_review_filtered_lofi_ui.webp]]
+![[customer_review_filtered_lofi_ui.png]]
 
 **Приклад**: Клієнт залишив 1-зірковий відгук для "Bottle Holder", скаржачись на негерметичність. Пропонуйте рефанд.
 
